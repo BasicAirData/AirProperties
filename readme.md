@@ -1,38 +1,21 @@
+#BasicAirData-AirProperties
+
+[BasicAirData](http://www.basicairdata.eu) Open and free DIY air data instrumentation and telemetry 
+
+![Shoot](https://cloud.githubusercontent.com/assets/7497614/7476122/e2bd2a7e-f34b-11e4-8bd9-a6e3767ec055.png)
+
+##Description##
+
+Air Properties calculator for Android mobile devices
+[Application is freely downloadable from Google Play(tm)Store](https://play.google.com/store/apps/details?id=eu.basicairdata.jlj.cipm91airdensity&hl=en)
 
 
-BasicAirData (c) 2014 JLJ
+##License##
+BasicAirData is free software licensed under [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.txt) General Public License
+[License information](http://www.basicairdata.eu/copyright.html)
 
-This repository is fo the Air Properties project, a calculator for Android mobile devices
+##Info##
+[Online](http://www.basicairdata.eu/social.html)
 
-Application is freely downloadable from Google Play(tm)Store.
-https://play.google.com/store/apps/details?id=eu.basicairdata.jlj.cipm91airdensity&hl=en
-
-BasicAirData is devoted to Open and free DIY air data instrumentation and telemetry. Downloadable description http://www.basicairdata.eu/attachments/others/BAD%20Brochure.pdf Every feedback and feature proposal is welcome
-
-JLJ
-
-CURRENT MEMBERS :
-
-http://www.basicairdata.eu/about.html
-
-ON LINE REFERENCES :
-
-Main site http://www.basicairdata.eu/android-air-properties.html
-
-Forum http://basicairdata.freeforums.org/
-
-SOCIAL :
-
-Facebook page
-
-https://www.facebook.com/BasicAirData
-
-Google+
-
-https://plus.google.com/+basicairdataeu
-
-Twitter
-
-https://twitter.com/BasicAirData
-
-
+##Acknowledgements##
+[Current menbers](http://www.basicairdata.eu/about.html)
